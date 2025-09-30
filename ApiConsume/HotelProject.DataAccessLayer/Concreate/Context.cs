@@ -1,16 +1,21 @@
 ﻿using System;
 using HotelProject.EntityLayer.Concreate;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 namespace HotelProject.DataAccessLayer.Concreate
 {
-	public class Context : DbContext
+	public class Context : IdentityDbContext<AppUser,AppRole,int>
 	{
-        public Context(DbContextOptions<Context> options) : base (options)
+        public Context()
         {
 
         }
+        //public Context(DbContextOptions<Context> options) : base (options)
+        //{
+
+        //}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var configuration = new ConfigurationBuilder()

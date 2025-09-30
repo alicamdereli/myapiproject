@@ -94,6 +94,7 @@
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.WebApi/bin/Debug/net7.0/Azure.Core.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.WebApi/bin/Debug/net7.0/Azure.Identity.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.WebApi/bin/Debug/net7.0/Humanizer.dll
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
