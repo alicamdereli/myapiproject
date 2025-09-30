@@ -12,10 +12,6 @@ namespace HotelProject.DataAccessLayer.Concreate
         {
 
         }
-        //public Context(DbContextOptions<Context> options) : base (options)
-        //{
-
-        //}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var configuration = new ConfigurationBuilder()
